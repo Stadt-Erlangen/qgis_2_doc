@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/plugins/qgis_2_doc">
+    <file>icon.svg</file>
+  </qresource>
+</RCC>
